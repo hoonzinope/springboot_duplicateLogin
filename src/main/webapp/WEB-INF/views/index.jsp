@@ -8,5 +8,6 @@
 </head>
 <body>
     hello world!
+    <a href="/logout">logout</a> <!-- home 로그아웃 추가 -->
 </body>
 </html>

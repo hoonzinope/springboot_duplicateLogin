@@ -12,6 +12,7 @@
         <br/>
         <input type="password" id="password" name="password" placeholder="user password"/>
         <br/>
+        rememberMe : <input type="checkbox" id="rememberMe" name="rememberMe"/> <!-- rememberMe 기능 추가-->
         <button type="button" id="login" >login</button>
     </form>
 </body>
